@@ -30,10 +30,10 @@
     <orderEntry type="library" exported="" name="Gradle: converter-jackson-2.5.0" level="project" />
     <orderEntry type="library" exported="" name="Gradle: adapter-rxjava2-2.5.0" level="project" />
     <orderEntry type="library" exported="" name="Gradle: retrofit-2.5.0" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: lombok-1.16.20" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: dagger-android-support-2.15" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: dagger-android-2.15" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: dagger-2.15" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: lombok-1.16.20" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: dagger-android-support-2.20" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: dagger-android-2.20" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: dagger-2.20" level="project" />
     <orderEntry type="library" exported="" name="Gradle: rxandroid-2.0.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: rxjava-2.1.0" level="project" />
     <orderEntry type="library" exported="" name="Gradle: timber-4.6.0" level="project" />
